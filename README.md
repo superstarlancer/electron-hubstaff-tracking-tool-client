@@ -34,6 +34,6 @@
  
 ## License (Modified BPL)
 
-Copyright (C) 2011, Blackpandlancer@gmail.com
+Copyright (C) 2011,lokiokidoki2222@gmail.com
 All rights reserved.
 
